@@ -1,5 +1,6 @@
-IMC Prosperity 3 - 2025
-A comprehensive repository documenting my solo person team participation in the IMC Prosperity 3 - 2025 trading competition. This repo contains all strategies and approaches I explored across the 5 tasks, including final submitted solutions.
+IMC Prosperity 3 - 2025:   A comprehensive repository.
+Documenting my **SOLO** person team participation in the IMC Prosperity 3 - 2025 trading competition.
+This repo contains all strategies and approaches I explored across the 5 tasks, including final submitted solutions.
 
 📌 Overview
 Competition: IMC Prosperity 3 – 2025
